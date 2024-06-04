@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rakeshhh88
+- 👀 I’m interested in SQL,Python,Data Analytics,Machinelearning,PowerBI,Tableau
+- 🌱 I’m currently learning DataAnalytics with Coding Ninjas
+- 💞️ I’m looking to  work on some some projects to gain Hands on Experience
+- 📫 How to reach me - Contact 8940524599 or mail at rakeshken16@gmail.com
